@@ -15,3 +15,9 @@ normalization/distances_countries_inKM.csv
 unify_names.ipynb
 vector_spatial_introd/
 united_names_datasets/
+Dynamic\ Time\ warping\ /
+__pycache__/
+af_timeseries_test.csv
+corr_matrix.csv
+read_network.py
+
